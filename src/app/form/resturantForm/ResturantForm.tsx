@@ -1,5 +1,6 @@
 export default function ResturantForm() {
   console.log(removeEventListener);
+  console.log(removeEventListener);
 
   return (
     <form>
